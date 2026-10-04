@@ -401,6 +401,7 @@ AutoBar_Category_Info = { -- global
 		["items"] = {
 			2455,	-- Minor Mana Potion
 			3385,	-- Lesser Mana Potion
+			41944,  -- Balor Moonshine
 			3827,	-- Mana Potion
 			6149,	-- Greater Mana Potion
 			13443,	-- Superior Mana Potion
